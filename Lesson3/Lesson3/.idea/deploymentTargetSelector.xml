@@ -5,22 +5,19 @@
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="activitylifecycle">
+      <SelectionState runConfigName="intentapp">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="multiactivity">
+      <SelectionState runConfigName="sharer">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="intentfilter">
+      <SelectionState runConfigName="favouritebook">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="toastapp">
+      <SelectionState runConfigName="systemintentsapp">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="notificationapp">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
-      <SelectionState runConfigName="dialog">
+      <SelectionState runConfigName="simplefragmentapp">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
