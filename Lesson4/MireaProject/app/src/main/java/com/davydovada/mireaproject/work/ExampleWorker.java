@@ -1,4 +1,4 @@
-package com.example.mireaproject.work;
+package com.davydovada.mireaproject.work;
 
 import android.content.Context;
 import android.util.Log;

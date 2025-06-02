@@ -1,4 +1,4 @@
-package com.example.mireaproject.ui.webview;
+package com.davydovada.mireaproject.ui.webview;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import androidx.fragment.app.Fragment;
-import com.example.mireaproject.R;
+import com.davydovada.mireaproject.R;
 
 public class WebViewFragment extends Fragment {
 
