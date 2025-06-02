@@ -7,42 +7,42 @@
 
     <fragment
         android:id="@+id/nav_data"
-        android:name="com.example.mireaproject.ui.data.DataFragment"
+        android:name="com.davydovada.mireaproject.ui.data.DataFragment"
         android:label="Информация"
         tools:layout="@layout/fragment_data" />
 
     <fragment
         android:id="@+id/nav_webview"
-        android:name="com.example.mireaproject.ui.webview.WebViewFragment"
+        android:name="com.davydovada.mireaproject.ui.webview.WebViewFragment"
         android:label="Браузер"
         tools:layout="@layout/fragment_webview" />
 
     <fragment
         android:id="@+id/nav_worker"
-        android:name="com.example.mireaproject.ui.worker.WorkerFragment"
+        android:name="com.davydovada.mireaproject.ui.worker.WorkerFragment"
         android:label="Фоновая задача"
         tools:layout="@layout/fragment_worker" />
 
     <fragment
         android:id="@+id/nav_lightSensor"
-        android:name="com.example.mireaproject.LightSensorFragment"
+        android:name="com.davydovada.mireaproject.LightSensorFragment"
         android:label="Датчик освещённости"
         tools:layout="@layout/fragment_light_sensor" />
 
     <fragment
         android:id="@+id/nav_photoNote"
-        android:name="com.example.mireaproject.PhotoNoteFragment"
+        android:name="com.davydovada.mireaproject.PhotoNoteFragment"
         android:label="Фото и заметка"
         tools:layout="@layout/fragment_photo_note" />
 
     <fragment
         android:id="@+id/compassFragment"
-        android:name="com.example.mireaproject.CompassFragment"
+        android:name="com.davydovada.mireaproject.CompassFragment"
         android:label="Компас" />
 
     <fragment
         android:id="@+id/voiceNoteFragment"
-        android:name="com.example.mireaproject.VoiceNoteFragment"
+        android:name="com.davydovada.mireaproject.VoiceNoteFragment"
         android:label="Голосовые заметки" />
 
 

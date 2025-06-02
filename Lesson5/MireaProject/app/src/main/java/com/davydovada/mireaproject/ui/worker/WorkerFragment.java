@@ -1,4 +1,4 @@
-package com.example.mireaproject.ui.worker;
+package com.davydovada.mireaproject.ui.worker;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -13,8 +13,8 @@ import androidx.work.NetworkType;
 import androidx.work.OneTimeWorkRequest;
 import androidx.work.WorkManager;
 
-import com.example.mireaproject.R;
-import com.example.mireaproject.work.ExampleWorker;
+import com.davydovada.mireaproject.R;
+import com.davydovada.mireaproject.work.ExampleWorker;
 
 public class WorkerFragment extends Fragment {
 
