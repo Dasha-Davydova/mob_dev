@@ -1,8 +1,7 @@
-package com.example.mireaproject;
+package com.davydovada.mireaproject;
 
 import android.os.Bundle;
 
-import androidx.appcompat.app.AppCompatDelegate;
 import androidx.navigation.NavController;
 import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.AppBarConfiguration;
@@ -10,7 +9,7 @@ import androidx.navigation.ui.NavigationUI;
 import com.google.android.material.navigation.NavigationView;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.mireaproject.databinding.ActivityMainBinding;
+import com.davydovada.mireaproject.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 

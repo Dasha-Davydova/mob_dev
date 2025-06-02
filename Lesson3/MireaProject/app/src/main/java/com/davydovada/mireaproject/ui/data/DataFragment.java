@@ -1,11 +1,11 @@
-package com.example.mireaproject.ui.data;
+package com.davydovada.mireaproject.ui.data;
 
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.example.mireaproject.R;
+import com.davydovada.mireaproject.R;
 
 public class DataFragment extends Fragment {
     public DataFragment() {}
