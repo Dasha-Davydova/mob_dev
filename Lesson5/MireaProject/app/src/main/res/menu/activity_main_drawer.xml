@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_data"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Информация" />
+        <item
+            android:id="@+id/nav_webview"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Браузер" />
+        <item
+            android:id="@+id/nav_worker"
+            android:icon="@drawable/baseline_android_24"
+            android:title="Фоновая задача" />
+
+        <item
+            android:id="@+id/nav_lightSensor"
+            android:icon="@drawable/flash"
+            android:title="Датчик фонаря" />
+
+        <item
+            android:id="@+id/nav_photoNote"
+            android:title="Фото и заметка"
+            android:icon="@drawable/baseline_camera_alt_24" />
+
+        <item
+            android:id="@+id/compassFragment"
+            android:title="Компас"
+            android:icon="@drawable/compass" />
+
+        <item
+            android:id="@+id/voiceNoteFragment"
+            android:title="Голосовые заметки"
+            android:icon="@drawable/baseline_assignment_24" />
+
+    </group>
+</menu>
