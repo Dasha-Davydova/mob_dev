@@ -1,4 +1,4 @@
-package com.example.mireaproject;
+package com.davydovada.mireaproject;
 
 import android.content.Context;
 import android.content.SharedPreferences;
